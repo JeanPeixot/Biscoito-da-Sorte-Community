@@ -1,0 +1,88 @@
+body {
+
+    background: linear-gradient(45deg, #190361 0%, #B0F 100%);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: "DM Sans";
+    
+}
+
+.containermain {
+
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.80);
+   
+    width: 428px;
+    height: 424px;
+    padding: 48px 64px 64px 64px;
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+#maintitle {
+    color: #34355b;
+    font-family: "Montserrat";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 14px;
+    
+}
+
+#subtitle {
+    color: #34355B;
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 26.42px;
+}
+
+#cookiebutton {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.cookiehidden{
+    display: none;
+    
+}
+
+.fortunecookiemessage {
+    font-family: "Dancing Script";
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    
+    background: #E4EDF1;
+    box-shadow: 2px 2px 2px 0px rgba(85, 85, 85, 0.50);
+    padding: 10px;
+
+    width: 293px;
+    height: 107px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+
+}
+
