@@ -15,7 +15,7 @@
         
 </head>
 <body>
-    <div class="containermain"> 
+    <div id="containerid"  class="containermain"> 
 
     <h1 id="maintitle">
         Qual é a sua sorte de hoje?
@@ -24,11 +24,15 @@
         Abra o biscoito e descubra!
     </p>
     <p id="message" class="cookiehidden">
-        Se alguém está tão cansado que não possa te dar um sorriso, deixa-lhe o teu.
     </p>
     <button id="cookiebutton" onclick="OpenCookie()">
         <img id="cookieclose" src="./assets/cookie.svg" alt="Biscoito da sorte fechado">
         <img id="cookieopen" class="cookiehidden" src="./assets/opened-cookie.svg" alt="Biscoito da sorte aberto">
+    </button>
+    <button id="newcookie" onclick="CloseCookie()">
+
+        Abrir outro biscoito
+
     </button>
     
 
