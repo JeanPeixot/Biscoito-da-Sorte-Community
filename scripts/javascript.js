@@ -1,8 +1,20 @@
 const CookieMessages = [
-    "Hoje você está sem sorte mesmo",
-    "Que o amanhã seja melhor que o hoje",
-    "Você deixou de ser a minha prioridade",
-    "Se alguém está tão cansado que não possa te dar um sorriso, deixa-lhe o teu."
+    "Não importa que você vá devagar, contanto que você não pare.",
+    "Se alguém está tão cansado que não possa te dar um sorriso, deixa-lhe o teu",
+    "Não importa que você vá devagar, contanto que você não pare.",
+    "Não importa que você vá devagar, contanto que você não pare.",
+    "Toda vez que você se sentir inseguro, relembre as situações em que você se subestimou.",
+    "Não existem limites para quem acredita que impossível é apenas uma palavra",
+    "A gente não aprende a andar seguindo regras. Aprendemos a andar caindo e levantando sozinhos.",
+    "É melhor ser um otimista que fica desapontado do que um pessimista que não tem esperança.",
+    "O arrependimento pode ser mais assustador do que o próprio ato de uma grande mudança. Arrisque!",
+    "Sabe aonde ela está?",
+    "Viva sem desculpas. Ame sem arrependimentos.",
+    "Dias difíceis são necessários para aproveitarmos com mais entusiasmo os dias de alegria.",
+
+
+
+
 
 ]
 
