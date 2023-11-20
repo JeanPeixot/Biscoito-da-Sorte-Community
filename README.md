@@ -5,6 +5,8 @@
 
 #### To access the page, click on the link!
 
+https://jeanpeixot.github.io/Biscoito-da-Sorte-Community/
+
 ##### Technologies used:
 
 - HTML
@@ -14,6 +16,8 @@
 ### 🇧🇷 Projeto Desenvolvido para estudo
 
 #### Para acessar a página, click no link!
+
+https://jeanpeixot.github.io/Biscoito-da-Sorte-Community/
 
 ##### Tecnologias utilizadas: 
 
